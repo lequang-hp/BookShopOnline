@@ -1,7 +1,9 @@
 # BookShopOnline
 
 Framework: Spring MVC(Spring data JPA, Spring security...) 
+
 IDE: Eclipse
+
 Database: MySQL
 
 Function:
