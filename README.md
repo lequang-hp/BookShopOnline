@@ -6,7 +6,7 @@ IDE: Eclipse
 
 Database: MySQL
 
-Function:
+## Function:
 
 1 User account:
 - Login/Register user account
